@@ -1,7 +1,7 @@
 class worker:
     rate_of_increase = 1.1
 
-def _init_(self ,name,surname,salary)
+def _init_( self ,name,surname,salary )
     self.name = name
     self.surname = surname
     self.salary = salary
@@ -14,7 +14,7 @@ def _init_(self ,name,surname,salary)
     class developer (worker)
         raie_of_increase = 1.2 
         def show_information(self): 
-            return "ı am a developer"
+            return "i am a developer"
             
 
     class developer ("worker") 
